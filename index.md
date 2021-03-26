@@ -152,16 +152,16 @@ its usage
 
 # Event List 2020
 
-**Date: October 30,31, 2020
-Seminar on OWASP TOP 10
-Location: Sarvajanik College of Engineering & Technology**
+**Date: October 30,31, 2020**
+**Seminar on OWASP TOP 10**
+**Location: Sarvajanik College of Engineering & Technology**
 
 # Event List 2021
 
 **Date: March 26,2021**
-**Hours: 3.5 Hours
-Seminar on Secure Coding using OWASP TOP 10
-Location: Jemistry Info Solutions LLP**
+**Hours: 3.5 Hours**
+**Seminar on Secure Coding using OWASP TOP 10**
+**Location: Jemistry Info Solutions LLP**
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Asia/Pacific/Middle
