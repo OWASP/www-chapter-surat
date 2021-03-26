@@ -174,6 +174,14 @@ its usage
 
 **Location: Jemistry Info Solutions LLP**
 
+**Date: April 20,2021 (Happening Scheduled)**
+
+**Hours: 2 Hours**
+
+**Seminar on Secure Coding using OWASP TOP 10**
+
+**Location: Cyber Suraksha Setu**
+
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Asia/Pacific/Middle
 East](Category:Asia/Pacific/Middle_East "wikilink")
