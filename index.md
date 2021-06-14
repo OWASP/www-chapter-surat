@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Surat
 tags: example-tag
 level: 0
-
+meetup-group: surat-owasp-meetup-group
 region: Asia
 
 
@@ -16,6 +16,14 @@ interested in learning more about information security. We conduct
 regular (mostly Quaterly) meetings in Surat region.
 
 Prior registrations are mandatory to attend the meetup.
+
+### Upcoming Meetings
+
+We schedule our meetings on the [Surat Meetup Group](https://www.meetup.com/surat-owasp-meetup-group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 # Events List 2017
 
