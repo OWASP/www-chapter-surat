@@ -192,7 +192,3 @@ its usage
 
 **Location: Online (Link will be updated on 15th April)**
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Asia/Pacific/Middle
-East](Category:Asia/Pacific/Middle_East "wikilink")
-[Category:India](Category:India "wikilink")
