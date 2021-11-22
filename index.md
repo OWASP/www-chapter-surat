@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Surat
 tags: example-tag
 level: 0
-meetup-group: surat-owasp-meetup-group
 region: Asia
 
 
@@ -19,7 +18,7 @@ Prior registrations are mandatory to attend the meetup.
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [Surat Meetup Group](https://www.meetup.com/surat-owasp-meetup-group/)
+We schedule our meetings on the 
 
 {% include chapter_events.html group=page.meetup-group %}
 
