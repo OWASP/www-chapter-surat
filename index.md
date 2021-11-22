@@ -18,7 +18,7 @@ Prior registrations are mandatory to attend the meetup.
 
 ### Upcoming Meetings
 
-We schedule our meetings on the 
+
 
 {% include chapter_events.html group=page.meetup-group %}
 
