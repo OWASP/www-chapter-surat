@@ -189,5 +189,24 @@ its usage
 
 **Seminar on Secure Coding using OWASP TOP 10**
 
-**Location: Online (Link will be updated on 15th April)**
+**Location: Online (ZOOM)**
 
+# Event List 2022
+
+**Date: June 21,2021**
+
+**Hours: 4 Hours**
+
+**Seminar on Application Security With Owasp Top 10**
+
+**Location: Cyber Suraksha Setu**
+
+Upcoming: 
+
+**Date: August 6,2021**
+
+**Hours: 2 Hours**
+
+**Discussion on Application Security**
+
+**Location: Cyber Suraksha Setu**
